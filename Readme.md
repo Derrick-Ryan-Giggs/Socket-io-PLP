@@ -49,7 +49,7 @@ A real-time collaborative note-taking application built with the MERN stack and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/real-time-notes.git
+git clone https://github.com/Derrick-Ryan-Giggs/real-time-notes.git
 cd real-time-notes
 ```
 
